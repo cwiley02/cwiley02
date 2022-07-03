@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity and software development
 - 🌱 I’m currently learning python, java, and lua
 - 💞️ I’m looking to collaborate on many projects 🤷‍♂️
-- 📫 How to reach me: hundi125f@proton.me
+- 📫 How to reach me: wiley.cody2002@protonmail.com
 
 <!---
 hundifox/hundifox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

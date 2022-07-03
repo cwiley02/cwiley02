@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cody
-- 👀 I’m interested in cybersecurity and software development
+- 👀 I’m interested in cybersecurity, artificial intelligence and software development
 - 🌱 I’m currently learning python, java, and lua
 - 💞️ I’m looking to collaborate on many projects 🤷‍♂️
 - 📫 How to reach me: wiley.cody2002@protonmail.com

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hundifox
+- 👋 Hi, I’m Cody
 - 👀 I’m interested in cybersecurity and software development
 - 🌱 I’m currently learning python, java, and lua
 - 💞️ I’m looking to collaborate on many projects 🤷‍♂️
